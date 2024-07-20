@@ -10,4 +10,7 @@ This project was completed using Python and Jupyter Notebook as well as the foll
 * Scikit-learn
 * Jupyter
 
+## Sections:
+## Importing and exploring the datasets
+The first section focuses on importing the datasets, exploring the various data types, and finding the basic statistics for each column in the datasets.
 
