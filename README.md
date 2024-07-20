@@ -15,3 +15,5 @@ This project was completed using Python and Jupyter Notebook as well as the foll
 The first section focuses on importing the datasets, exploring the various data types, and finding the basic statistics for each column in the datasets.
 ## Analyses of Observation & Species Info datasets
 The second section focuses on analyzing the provided datasets using various visualizations to explore the relationships between the variables.
+## Studying Correlations/Patterns
+The third section of the project focuses on the correlation between variables using the Pearson correlation coefficient. This section also aims to find out which variables have the strongest relationship with each other, as well as any patterns that may reveal themselves.
