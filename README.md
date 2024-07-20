@@ -13,4 +13,5 @@ This project was completed using Python and Jupyter Notebook as well as the foll
 ## Sections:
 ## Importing and exploring the datasets
 The first section focuses on importing the datasets, exploring the various data types, and finding the basic statistics for each column in the datasets.
-
+## Analyses of Observation & Species Info Datasets
+The second section focuses on analyzing the provided datasets using various visualizations to explore the relationships between the variables.
